@@ -4,6 +4,8 @@ Interesting links I keep finding when I'm bored
 # The Clean Code Movement
 ## Design Patterns
 
+[Design Patterns (THE GOAT)](https://refactoring.guru/design-patterns)
+
 [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 
 [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern)
