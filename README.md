@@ -119,6 +119,8 @@ Interesting links I keep finding when I'm bored
 
 # Math
 
+[ossu/math: 🧮 Path to a free self-taught education in Mathematics! (THE GOAT)](https://github.com/ossu/math)
+
 [Arithmetica - Wikipedia](https://en.wikipedia.org/wiki/Arithmetica)
 
 [Euclidean geometry - Wikipedia](https://en.wikipedia.org/wiki/Euclidean_geometry)
@@ -128,8 +130,6 @@ Interesting links I keep finding when I'm bored
 [Euclid's theorem - Wikipedia](https://en.wikipedia.org/wiki/Euclid%27s_theorem)
 
 [Banach–Tarski paradox - Wikipedia](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox)
-
-[ossu/math: 🧮 Path to a free self-taught education in Mathematics!](https://github.com/ossu/math)
 
 [Introduction to Mathematical Thinking - Discussions | Coursera](https://www.coursera.org/learn/mathematical-thinking/discussions/forums/5Dv4WCj2Eea8jw6UvTi2Tw/threads/N9nUadauEe6muwr_9fW95w)
 
