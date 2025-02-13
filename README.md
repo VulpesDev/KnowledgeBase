@@ -133,6 +133,8 @@ Interesting links I keep finding when I'm bored
 
 [Introduction to Mathematical Thinking - Discussions | Coursera](https://www.coursera.org/learn/mathematical-thinking/discussions/forums/5Dv4WCj2Eea8jw6UvTi2Tw/threads/N9nUadauEe6muwr_9fW95w)
 
+[De Morgan's laws - Wikipedia](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
+
 # Electronics
 
 [(PDF) SceNDD: A Scenario-based Naturalistic Driving Dataset](https://www.researchgate.net/publication/365103967_SceNDD_A_Scenario-based_Naturalistic_Driving_Dataset)
