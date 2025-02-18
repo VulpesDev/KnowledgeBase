@@ -88,6 +88,8 @@ Interesting links I keep finding when I'm bored
 
 [yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader](https://github.com/yt-dlp/yt-dlp)
 
+[nautechsystems/nautilus\_trader: A high-performance algorithmic trading platform and event-driven backtester](https://github.com/nautechsystems/nautilus_trader)
+
 
 # Networking
 
