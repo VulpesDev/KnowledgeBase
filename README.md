@@ -86,6 +86,8 @@ Interesting links I keep finding when I'm bored
 
 [Deploying Hummingbot on a Raspberry Pi | by hummingbot | Hummingbot Blog | Medium](https://medium.com/hummingbot/deploying-hummingbot-on-a-raspberry-pi-32120a0314a)
 
+[yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader](https://github.com/yt-dlp/yt-dlp)
+
 
 # Networking
 
