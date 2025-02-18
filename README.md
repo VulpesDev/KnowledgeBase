@@ -149,6 +149,11 @@ Interesting links I keep finding when I'm bored
 
 [Livox Mid-360](https://www.livoxtech.com/mid-360)
 
+# Collections
+
+[poteto/hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
+
+
 # Misc
 
 [NASA claims China can slow Earth rotation and make days longer](https://www.msn.com/en-xl/news/other/nasa-claims-china-can-slow-earth-rotation-and-make-days-longer/ar-AA1wUtjJ?ocid=msedgntp&pc=U531&cvid=381ab7855dc149eebafef5771bf049fa&ei=24)
