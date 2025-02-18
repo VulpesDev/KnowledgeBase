@@ -153,6 +153,8 @@ Interesting links I keep finding when I'm bored
 
 [poteto/hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
 
+[hagezi/dns-blocklists: DNS-Blocklists: For a better internet - keep the internet clean!](https://github.com/hagezi/dns-blocklists)
+
 
 # Misc
 
