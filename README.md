@@ -84,6 +84,8 @@ Interesting links I keep finding when I'm bored
 
 [deskflow/deskflow: Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).](https://github.com/deskflow/deskflow)
 
+[Deploying Hummingbot on a Raspberry Pi | by hummingbot | Hummingbot Blog | Medium](https://medium.com/hummingbot/deploying-hummingbot-on-a-raspberry-pi-32120a0314a)
+
 
 # Networking
 
